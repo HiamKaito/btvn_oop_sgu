@@ -1,0 +1,5 @@
+Nguyen Thi A|18|Nu|phuong 2|quan|thanh pho|1|1|Thu ky|299.9| |
+Quach Dai Duc|19|Nam|phuong 2|quan 5|Dong Nai|4|3|Admin|9.0| |
+Le Thi A|24|Nu|phuong 6|quan 4|Ba Ria Vung Tau|8|3|Lao cong|9.0| |
+Le Van A|23|Nam|phuong 6|quan 5|Dak Lak|9|5|Bao ve|9.0| |
+Nguyen Thi A|18|Nu|phuong 2|quan|thanh pho|10|1|Thu ky|299.9| |

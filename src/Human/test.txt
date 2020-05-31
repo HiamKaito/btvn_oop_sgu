@@ -1,0 +1,13 @@
+Select the number:
+1. Display a list of employees
+2. Create a new employee
+3. Find an employee
+4. Edit information an employee
+5. Delete an employee
+6. Delete all
+7. Sort by Name
+8. Sort by ID
+9. Write list of employees to file
+10.Read  list of employees from file
+11.Rollback data
+0. EXIT

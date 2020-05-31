@@ -1,0 +1,5 @@
+Nguyen Van A|25|Nam|phuong 3|quan|thanh pho|2|1|Giam doc|500.0|x|
+Tran Gia Huy|19|Nam|phuong 11|quan Go Vap|Ho Chi Minh|3|2|Admin|10.0|x|
+Tran Ngoc Hai|19|Nam|phuong 3|quan 1|Dong Nai|5|2|Admin|10.0|x|
+Tang Chi Chung|19|Nam|phuong 4|quan 2|Ho Chi Minh|6|4|Admin|400.0|x|
+Le Hai Son|19|Nam|phuong 5|quan 3|Ho Chi Minh|7|1|Nhan vien|100.0|x|
